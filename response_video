@@ -1,0 +1,1 @@
+{"phone_number":"8786543509","fraud_score":40,"risk_level":"MEDIUM","indicators_detected":["bank_impersonation","threat_language"],"number_reputation":{"fraud_score":27,"number_of_reports":13,"risk_level":"LOW"}}

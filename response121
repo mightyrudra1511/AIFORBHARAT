@@ -1,0 +1,1 @@
+{"phone_number":"7325167241","fraud_score":65,"risk_level":"HIGH","indicators_detected":["bank_impersonation","money_request","threat_language"],"number_reputation":{"fraud_score":65,"number_of_reports":4,"risk_level":"HIGH"}}

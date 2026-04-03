@@ -1,3 +1,4 @@
+// Developed by Aditya Walavalkar - AI for Bharat Hackathon
 const { DynamoDBClient } = require("@aws-sdk/client-dynamodb");
 const {
   DynamoDBDocumentClient,
